@@ -1,4 +1,8 @@
-[
+
+{
+    "info": "menus from Yoons English School Cafeteria",
+    "data":
+ [
     {
         "daytype": "월요일",
         "typeofmeal": "아침",
@@ -49,4 +53,5 @@
         "typeofmeal": "점심",
         "value": "크래미로제스파게티\n 크림스프\n 모닝빵샌드위치\n 오이피클과 할라피뇨\n 삼색야채샐러드와 오리엔탈 드레싱\n 저염김치\n 뽕잎차"
     }
-]
+ ]
+}
