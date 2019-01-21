@@ -2,64 +2,59 @@
 {
     "info": "menus from Yoons English School Cafeteria",
     "data":
- 
-[
-    {
-        "daytype": "dayType",
-        "typeofmeal": "typeOfMeal",
-        "value": "value"
-    },
+
+    [
     {
         "daytype": "월요일",
         "typeofmeal": "아침",
-        "value": "\n경상도식쇠고기무국,\n쌀밥,\n고추장전,\n연두부,\n상추겉절이,\n"
+        "value": "\n오징어데리야끼볶음,\n 잡곡밥,\n 콩나물국,\n 호박나물,\n 건파래볶음,\n"
     },
     {
         "daytype": "월요일",
         "typeofmeal": "점심",
-        "value": "\n매콤낙지주꾸미덮밥,\n팽이버섯된장국,\n부드러운야채계란찜,\n단무지부추무침,\n"
+        "value": "\n백선생햄감자찌개,\n 흑향미밥,\n 스크램블에그,\n 쥐어채무침,\n 브로콜리숙회,\n"
     },
     {
         "daytype": "화요일",
         "typeofmeal": "아침",
-        "value": "\n느타리버섯국,\n잡곡밥,\n메추리알곤약조림,\n고추장멸치볶음,\n돌나물,\n"
+        "value": "\n꼬맹이만두국,\n 쌀밥,\n 섭산적구이,\n 새송이버섯볶음,\n 쑥갓두부무침,\n"
     },
     {
         "daytype": "화요일",
         "typeofmeal": "점심",
-        "value": "\n참치김치찌개,\n귀리밥,\n생선까스,\n모듬묵,\n치커리사과무침,\n"
+        "value": "\n돈코츠미소라멘,\n 수제유부초밥,\n 감자고로케,\n 락교,\n"
     },
     {
         "daytype": "수요일",
         "typeofmeal": "아침",
-        "value": "\n꽁치무조림,\n쌀밥,\n콩나물국,\n미역줄기볶음,\n봄동겉절이,\n"
+        "value": "\n콩비지찌개,\n 잡곡밥,\n 햄전,\n 부들어묵볶음,\n 우엉조림,\n"
     },
     {
         "daytype": "수요일",
         "typeofmeal": "점심",
-        "value": "\n제육시래기볶음,\n흑향미밥,\n미역국,\n모듬콩조림,\n양배추쌈,\n"
+        "value": "\n갈치무조림,\n 기장밥,\n 들깨미역국,\n 풋고추양파무침,\n"
     },
     {
         "daytype": "목요일",
         "typeofmeal": "아침",
-        "value": "\n계란라면,\n쌀밥,\n잡채말이어묵,\n다시마,\n"
+        "value": "\n콩나물라면,\n 쌀밥,\n 맛살야채볶음,\n 무말랭이무침,\n"
     },
     {
         "daytype": "목요일",
         "typeofmeal": "점심",
-        "value": "\n가자미구이,\n수수밥,\n감자된장찌개,\n비엔나야채볶음,\n오이양파무침,\n"
+        "value": "\n비프머쉬룸오므라이스,\n 유부된장국,\n 흑임자고구마맛탕,\n"
     },
     {
         "daytype": "금요일",
         "typeofmeal": "아침",
-        "value": "\n재첩부추국,\n잡곡밥,\n두부김치,\n숙주나물,\n토스트,\n"
+        "value": "\n보리새우아욱국,\n 쌀밥,\n 떡갈비조랑떡조림,\n 양념깻잎지,\n"
     },
     {
         "daytype": "금요일",
         "typeofmeal": "점심",
-        "value": "\n떡만두국,\n기장밥,\n오징어참나물무침,\n볼어묵볶음,\n연근조림,\n"
+        "value": "\n재첩순두부찌개,\n 수수밥,\n 새우완자전,\n 알감자조림,\n"
     }
-]  
-   
+]
+         
 }
 
