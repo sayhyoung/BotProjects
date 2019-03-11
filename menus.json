@@ -3,58 +3,61 @@
     "info": "menus from Yoons English School Cafeteria",
     "data":
 
+    
+    
+    
     [
     {
         "daytype": "월요일",
         "typeofmeal": "아침",
-        "value": "\n오징어데리야끼볶음,\n 잡곡밥,\n 콩나물국,\n 호박나물,\n 건파래볶음,\n"
+        "value": "\n부대찌개\n잡채어묵볶음\n실곤약야채무침\n김구이,\n"
     },
     {
         "daytype": "월요일",
         "typeofmeal": "점심",
-        "value": "\n백선생햄감자찌개,\n 흑향미밥,\n 스크램블에그,\n 쥐어채무침,\n 브로콜리숙회,\n"
+        "value": "\n안동찜닭\n재첩국\n참치펜네샐러드\n다시마쌈,\n"
     },
     {
         "daytype": "화요일",
         "typeofmeal": "아침",
-        "value": "\n꼬맹이만두국,\n 쌀밥,\n 섭산적구이,\n 새송이버섯볶음,\n 쑥갓두부무침,\n"
+        "value": "\n사골떡국\n돈육강정\n건파래볶음\n봄동겉절이,\n"
     },
     {
         "daytype": "화요일",
         "typeofmeal": "점심",
-        "value": "\n돈코츠미소라멘,\n 수제유부초밥,\n 감자고로케,\n 락교,\n"
+        "value": "\n메추리알떡볶이\n김밥볶음밥\n꼬치어묵국\n김말이튀김,\n"
     },
     {
         "daytype": "수요일",
         "typeofmeal": "아침",
-        "value": "\n콩비지찌개,\n 잡곡밥,\n 햄전,\n 부들어묵볶음,\n 우엉조림,\n"
+        "value": "\n소고기미역국\n해물완자전\n우엉채땅콩조림\n참나물생채,\n"
     },
     {
         "daytype": "수요일",
         "typeofmeal": "점심",
-        "value": "\n갈치무조림,\n 기장밥,\n 들깨미역국,\n 풋고추양파무침,\n"
+        "value": "\n생선가스\n시금치된장국\n아몬드연근조림\n꽃맛살브로콜리무침,\n"
     },
     {
         "daytype": "목요일",
         "typeofmeal": "아침",
-        "value": "\n콩나물라면,\n 쌀밥,\n 맛살야채볶음,\n 무말랭이무침,\n"
+        "value": "\n즉석토핑라면\n옥수수전\n무말랭이무침 \n배추김치 \n김구이,\n"
     },
     {
         "daytype": "목요일",
         "typeofmeal": "점심",
-        "value": "\n비프머쉬룸오므라이스,\n 유부된장국,\n 흑임자고구마맛탕,\n"
+        "value": "\n제육볶음\n해물순두부찌개\n고구마맛탕\n양배추부추생채,\n"
     },
     {
         "daytype": "금요일",
         "typeofmeal": "아침",
-        "value": "\n보리새우아욱국,\n 쌀밥,\n 떡갈비조랑떡조림,\n 양념깻잎지,\n"
+        "value": "\n프렌치토스트\n크림스프\n그린샐러드\n소시지야채볶음\n계절과일,\n"
     },
     {
         "daytype": "금요일",
         "typeofmeal": "점심",
-        "value": "\n재첩순두부찌개,\n 수수밥,\n 새우완자전,\n 알감자조림,\n"
+        "value": "\n생야채비빔밥\n미소국\n알감자조림\n미역초무침\n옛날꽈배기,\n"
     }
-]
-         
+]         
+      
 }
 
